@@ -26,13 +26,28 @@
 - :email: [gmail@🍊714](mailto:orange714.lion@gmail.com)
 
 
-### 本人的python基础练习集成
+### 本项目为本人的python基础练习集成
 
+ 
 
 #### 致谢
   
 感谢我的python启蒙老师刘老师，感谢刘顺祥老师、莫烦老师、小甲鱼老师等，感谢CSDN平台各位大佬，本人仍会继续精进我的python编程能力，大家共同加油！
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Orange714"><img src="https://avatars.githubusercontent.com/u/74440038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>散步前进的Orange714</b></sub></a><br /><a href="https://github.com/liyupi/code-nav/commits?author=Orange714" title="">🍊</a></td>
+   
+  </tr>
+</table>
   
 ---      
 ## 未完待续
@@ -41,9 +56,3 @@
 
 
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/Orange714"><img src="https://avatars.githubusercontent.com/u/74440038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>散步前进的Orange714</b></sub></a><br /><a href="https://github.com/liyupi/code-nav/commits?author=Orange714" title="">🍊</a></td>
-   
-  </tr>
-</table>
