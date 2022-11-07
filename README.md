@@ -26,10 +26,11 @@
 - :email: [gmail@🍊714](mailto:orange714.lion@gmail.com)
 
 
-###本人的python基础练习集成
+### 本人的python基础练习集成
 
 
-####致谢
+#### 致谢
+  
 感谢我的python启蒙老师刘老师，感谢刘顺祥老师、莫烦老师、小甲鱼老师等，感谢CSDN平台各位大佬，本人仍会继续精进我的python编程能力，大家共同加油！
 
   
